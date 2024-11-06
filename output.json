@@ -2,7 +2,7 @@
     "blueprints": [
         {
             "invoke": "colors.pr",
-            "write_to": "colors.scss"
+            "write_to": "colors_test.scss"
         },
         {
             "invoke": "borders.pr",
